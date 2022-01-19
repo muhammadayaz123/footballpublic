@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-Contact_2">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Contact_2" data-name="Contact – 2" clip-path="url(#clip-Contact_2)">
+    <rect width="1920" height="1080" fill="#e5eee7"/>
+    <rect id="Rectangle_53" data-name="Rectangle 53" width="340" height="1080" transform="translate(902)" fill="#373535" style="mix-blend-mode: overlay;isolation: isolate"/>
+    <rect id="Rectangle_55" data-name="Rectangle 55" width="339" height="1080" transform="translate(1581)" fill="#373535" style="mix-blend-mode: overlay;isolation: isolate"/>
+    <g id="Rectangle_97" data-name="Rectangle 97" transform="translate(0 613)" fill="#006400" stroke="#707070" stroke-width="1">
+      <rect width="1920" height="467" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1919" height="466" fill="none"/>
+    </g>
+  </g>
+</svg>

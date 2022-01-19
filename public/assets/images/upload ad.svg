@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1306" height="158" viewBox="0 0 1306 158">
+  <g id="Group_510" data-name="Group 510" transform="translate(0 -30)">
+    <g id="Rectangle_116" data-name="Rectangle 116" transform="translate(0 30)" fill="#fff" stroke="#212121" stroke-width="1" stroke-dasharray="9" opacity="0.5">
+      <rect width="1306" height="158" rx="10" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1305" height="157" rx="9.5" fill="none"/>
+    </g>
+    <text id="Browse_or_Drag_Drop_Image_Here" data-name="Browse or Drag &amp; Drop Image Here" transform="translate(653 105)" fill="#006400" font-size="16" font-family="Roboto-Regular, Roboto" opacity="0.5"><tspan x="-123.387" y="0" text-decoration="underline">Browse</tspan><tspan y="0" xml:space="preserve" fill="#212121"> or Drag &amp; Drop Image Here</tspan></text>
+  </g>
+</svg>

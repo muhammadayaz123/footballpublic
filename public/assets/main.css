@@ -1,0 +1,970 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+
+
+/* .................Home Page CSS Start .........................  */
+
+
+/*
+.social-part .fa img {
+  padding-right: 20px;
+} */
+
+
+/* ul li a {
+  margin-right: 20px;
+} */
+
+
+/* .navbar-expand-md {
+  padding: 2.5rem 0rem 0rem 0rem;
+} */
+
+.home_bg {
+    overflow-x: hidden;
+}
+
+.nav-item img {
+    margin-top: -0.4rem;
+}
+
+.navbar-nav li {
+    font-size: 1.5rem;
+    color: #212121;
+    margin-left: 5rem;
+}
+
+.social-part a {
+    margin-right: 1rem;
+    font-size: 1.6rem;
+    font-weight: 500;
+}
+
+.td_none-s {
+    text-decoration: none;
+}
+
+.opacity_4-s {
+    opacity: .4;
+}
+
+.fg_yellow-s {
+    color: #EAC600;
+}
+
+.ft_size_14px-s {
+    font-size: 14px;
+}
+
+.social-part {
+    margin-right: 4rem;
+}
+
+.nav_profile {
+    width: 2.5rem;
+    border: 0.2rem solid #006400;
+    border-radius: 10rem;
+    margin-left: 2rem;
+}
+
+.nav_notification_img {
+    width: 3rem;
+    margin-left: 2rem;
+}
+
+.nav_location_img {
+    margin-top: -0.4rem;
+    width: 1.2rem;
+}
+
+.ahmed_text_m h1 {
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 3.6rem;
+    color: #212121;
+}
+
+.ahmed_text_m p {
+    font-family: Roboto;
+    font-weight: normal;
+    font-size: 2.4rem;
+    color: #212121;
+}
+
+.ahmed_text_m h4 {
+    font-family: Roboto;
+    font-weight: 600;
+    font-size: 2rem;
+    color: #006400;
+}
+
+
+/* carousel-indicators {
+  float: left;
+} */
+
+
+/* .carousel-inner {
+  position: absolute !important;
+  overflow: hidden;
+  left: 30%;
+  top: 31px;
+  width: 83%;
+}
+.carousel-indicators {
+  position: absolute;
+  right: 0;
+  left: 0;
+  z-index: 15;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: center;
+  justify-content: center;
+  padding-left: 0;
+  margin-right: 15%;
+  margin-left: 15%;
+  list-style: none;
+  top: 100px;
+}
+ */
+
+
+/* .carousel-control-next,
+.carousel-control-prev {
+  position: absolute;
+  top: 52px;
+  bottom: 0;
+  z-index: 1;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-align: center;
+  align-items: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  width: 15%;
+  color: #fff;
+  text-align: center;
+  opacity: 0.5;
+  transition: opacity 0.15s ease;
+} */
+
+.carousel-control-next,
+.carousel-control-prev {
+    position: absolute;
+    top: 65%;
+    margin: 0rem 4rem;
+    bottom: 0;
+    z-index: 1;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    width: 5%;
+    color: #fff;
+    text-align: center;
+    opacity: 0.5;
+    transition: opacity 0.15s ease;
+    background: #00000024;
+    border-radius: 108px;
+    height: 39%;
+}
+
+.carousel-indicators {
+    position: relative;
+    right: 0;
+    left: 0;
+    z-index: 15;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: center;
+    justify-content: center;
+    padding-left: 0;
+    margin-right: 15%;
+    margin-left: 15%;
+    list-style: none;
+    top: 96px;
+    /* bottom: -16%; */
+}
+
+.carousel-inner {
+    position: relative;
+    overflow: hidden;
+    left: 30%;
+    top: 12px;
+    width: 83%;
+}
+
+.carousel-indicators li {
+    background-color: #006400;
+}
+
+
+/* .carousel-control-prev-icon {
+  background-color: #f6f6f6;
+}
+.carousel-control-next-icon {
+  background-color: #f6f6f6;
+} */
+
+.card_slider {
+    height: 14rem;
+    background: #ffffff 0% 0% no-repeat padding-box;
+    box-shadow: 0px 0px 39px #00000024;
+    border-radius: 15px;
+}
+
+.btn_grp {
+    word-spacing: 2.2rem;
+}
+
+.btn_grp button:hover {
+    border: 2px solid #006400;
+}
+
+.btn_grp button {
+    background: #ffffff 0% 0% no-repeat padding-box;
+    box-shadow: 0px 0px 30px #00000017;
+    border-radius: 10px;
+    color: #212121;
+    font-size: 1.6rem;
+    width: 20.16rem;
+    height: 6.3rem;
+    text-transform: capitalize;
+    margin-bottom: 1rem;
+}
+
+.playesr_text p {
+    font-size: 1.8rem;
+    color: #212121;
+    font-family: Roboto;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+
+.filter_img {
+    right: 1%;
+    top: 17%;
+}
+
+.filter_img span {
+    color: #00000024;
+    font-family: Roboto;
+    font-weight: 600;
+    text-transform: capitalize;
+    font-size: 1.8rem;
+    margin-left: 1rem;
+}
+
+.rating_text {
+    color: #212121 !important;
+    font-size: 1.8rem !important;
+    word-spacing: 0.5rem;
+}
+
+.rating_textt {
+    color: #ffffff !important;
+    font-size: 1.8rem !important;
+    word-spacing: 0.5rem;
+    float: right;
+    font-weight: 600;
+}
+
+.home_card {
+    /* background-image: url(../assets/images/green\ bg.svg);
+  background-repeat: no-repeat;
+  background-size: cover; */
+    background-color: #006400;
+    padding: 1rem 0.6rem 0rem 0rem;
+    border-radius: 1.5rem;
+}
+
+.heart_icon i {
+    float: right;
+    font-size: 2rem;
+    color: white;
+}
+
+.thamer_startrating_m {
+    font-family: Roboto;
+    text-transform: capitalize;
+    line-height: 0rem;
+}
+
+.thamer_startrating_m h4 {
+    font-weight: bold;
+    font-size: 1.6rem;
+    color: white;
+}
+
+.thamer_startrating_m h6 {
+    font-weight: normal;
+    color: #e5eee7 !important;
+}
+
+.thamer_startrating_m p {
+    color: #eac600;
+    word-spacing: 0.4rem;
+}
+
+.thamer_startrating_m i {
+    letter-spacing: 0.2rem;
+    font-size: 0.8rem;
+}
+
+.fa-heart-o {
+    position: absolute;
+    top: -11px;
+    right: -4%;
+    background-color: #ffffff;
+    height: 3rem;
+    width: 3rem;
+    padding: 1rem 3rem 3rem 1rem;
+    border-radius: 0rem 1.5rem 0rem 3rem;
+    color: #006400 !important;
+}
+
+.fa-heart {
+    position: relative;
+    top: -11px;
+    right: -4%;
+    background-color: #ffffff;
+    height: 3rem;
+    width: 3rem;
+    padding: 1rem 3rem 3rem 1rem;
+    border-radius: 0rem 1.5rem 0rem 3rem;
+    color: #006400 !important;
+}
+
+
+/* .fa-heart-o:hover {
+  background-color: red;
+} */
+
+.goalkeeper_margin_b {
+    border-bottom: 1px solid #ffffff;
+    opacity: 0.4;
+}
+
+.age_years_text {
+    font-family: Roboto;
+    text-transform: capitalize;
+    line-height: 0rem;
+    padding-top: 1.8rem;
+}
+
+.age_years_text p {
+    color: #ffffff;
+    font-size: 1rem;
+    margin-left: 1.4rem;
+    opacity: 0.4;
+}
+
+.age_years_textt h2 {
+    font-size: 1.2rem;
+    font-weight: normal;
+    margin-left: 1.8rem;
+    line-height: 0rem;
+    color: #ffffff;
+}
+
+.age_years_textt {
+    font-family: Roboto;
+    text-transform: capitalize;
+    line-height: 0rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.aditya_location {
+    font-family: Roboto;
+    text-transform: capitalize;
+    color: #ffffff;
+    font-size: 1.2rem;
+}
+
+.aditya_location p {
+    word-spacing: 0.5rem;
+    padding: 0rem 0rem 1rem 0rem;
+    /* margin: 0rem 0rem 1rem 0rem; */
+}
+
+.aditya_location span {
+    word-spacing: 0rem !important;
+}
+
+.cardbody_text {
+    font-family: Roboto;
+    text-transform: capitalize;
+    line-height: 1.4rem;
+    padding: 2rem 0rem 1rem 0rem;
+}
+
+.cardbody_text p {
+    font-size: 1.8rem;
+    color: #212121;
+    opacity: 0.4;
+}
+
+.cardbody_text h6 {
+    font-size: 1.8rem;
+    color: #212121;
+    font-weight: 600;
+}
+
+.cardbody_text h5 {
+    font-size: 1.6rem;
+    color: #212121;
+    font-weight: 600;
+}
+
+.cardbody_text h3 {
+    font-weight: normal;
+    font-size: 1.8rem;
+    color: #212121;
+    opacity: 0.4;
+    /* padding: 3rem 0rem 0rem 0rem; */
+}
+
+.cardbody_text h3 span {
+    font-weight: normal;
+    font-size: 1.1rem !important;
+    color: #006400 !important;
+    opacity: 1 !important;
+}
+
+.cardbody_text span {
+    text-align: start !important;
+}
+
+
+/* .................Home Page CSS End .........................  */
+
+
+/* .................Home Page Sent invitation CSS End .........................  */
+
+.sent_invitation_nav {
+    list-style-type: none;
+    display: flex;
+}
+
+.sent_invitation_nav a {
+    text-decoration: none;
+}
+
+.home_sentinvi a {
+    color: #212121;
+}
+
+.breadcrumb-item.active {
+    color: #6c757d;
+    margin-right: 1rem;
+}
+
+.sent_invi_nav {
+    margin-left: 1rem;
+    color: #006400;
+}
+
+.breadcrumb-item {
+    font-family: Roboto;
+    text-transform: capitalize;
+    color: #212121;
+    font-size: 2.4rem;
+    font-weight: 500;
+}
+
+.send_invi_card1 {
+    border: 1px solid #212121;
+    border-radius: 15px;
+}
+
+.age_years_text_one {
+    font-family: Roboto;
+    text-transform: capitalize;
+    line-height: 0rem;
+    padding-top: 1.8rem;
+}
+
+.age_years_text_one p {
+    color: #ffffff;
+    font-size: 1rem;
+    margin-left: 3rem;
+    opacity: 0.4;
+}
+
+.age_years_textt_one h2 {
+    font-size: 1.2rem;
+    font-weight: normal;
+    margin-left: 3.5rem;
+    line-height: 0rem;
+    color: #ffffff;
+}
+
+.age_years_textt_one {
+    font-family: Roboto;
+    text-transform: capitalize;
+    line-height: 0rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.subtitle_text {
+    background: #e5eee7 0% 0% no-repeat padding-box;
+    border-radius: 10px;
+    opacity: 1;
+    font-family: Roboto;
+    text-transform: capitalize;
+    padding: 1.5rem 0rem 1rem;
+}
+
+.subtitle_text p {
+    display: flex;
+    justify-content: space-between;
+    color: #212121;
+    opacity: 0.4;
+    font-size: 1.4rem;
+}
+
+.subtitle_text h3 {
+    display: flex;
+    /* justify-content: space-between; */
+    color: #212121;
+    opacity: 1;
+    font-size: 1.6rem;
+    font-weight: bold;
+    line-height: 1rem;
+}
+
+.btn_send {
+    background: #006400 0% 0% no-repeat padding-box;
+    border-radius: 10px;
+    opacity: 0.8;
+    text-transform: uppercase;
+    color: #ffffff;
+    font-size: 2rem;
+    margin: 1.5rem 0rem 1rem 0rem;
+}
+
+.hour_increment input {
+    padding: 1rem;
+    border: 1px solid #c7c7c7;
+    border-radius: 5px;
+}
+
+.location_card {
+    background-color: #006400;
+    height: 48.7rem;
+    border-radius: 1.4rem;
+}
+
+.location_card_child {
+    position: absolute;
+    bottom: 2%;
+    width: 91%;
+    border-radius: 1.2rem;
+}
+
+.heart_iconn {
+    padding: 4rem 0.6rem 0rem 0rem;
+}
+
+.location_card_child h4 {
+    font-family: Roboto;
+    text-transform: capitalize;
+    color: #006400;
+    font-size: 1.2rem;
+}
+
+.location_card_child span {
+    font-family: Roboto;
+    text-transform: capitalize;
+    color: #212121;
+    font-size: 0.9rem;
+}
+
+.btn_select {
+    font-family: Roboto;
+    text-transform: capitalize;
+    background: #e5eee7 0% 0% no-repeat padding-box;
+    border-radius: 8px;
+    color: #006400;
+    text-transform: uppercase;
+}
+
+.bg-successs {
+    background-color: #e5eee7 !important;
+    color: #006400 !important;
+}
+
+sup {
+    top: 0rem;
+}
+
+.card_bg {
+    background-image: url("../assets/images/green\ bg.svg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.home_bgg {
+    background-image: url("../assets/images/home_bg.svg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.home_bg {
+    background-image: url("../assets/images/home_bg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.stadium_img {
+    margin: -0.1rem;
+}
+
+
+/* .................Home Page Sent invitation CSS End .........................  */
+
+
+/* .................User Profile Page CSS Start .........................  */
+
+.myprofile_text {
+    font-family: Roboto;
+}
+
+.myprofile_text h1 {
+    font-size: 3.6rem;
+    font-weight: bold;
+    color: #212121;
+}
+
+.myprofile_text p {
+    font-size: 2.4rem;
+    font-weight: normal;
+    color: #212121;
+}
+
+.usercard {
+    margin-top: 11rem;
+    background-color: #006400;
+    border-radius: 31px;
+}
+
+.userp_hearticon {
+    padding: 3rem 0.6rem 0rem 0rem;
+}
+
+.userp_hearticon i {
+    position: absolute;
+    top: 0%;
+    right: 0%;
+    background-color: #ffffff;
+    height: 3rem;
+    width: 3rem;
+    padding: 1rem 3rem 3rem 1rem;
+    border-radius: 0rem 2rem 0rem 3rem;
+    color: #006400 !important;
+    float: right;
+    font-size: 2rem;
+}
+
+.ahmad_startrating_m {
+    font-family: Roboto;
+    text-transform: capitalize;
+    line-height: 0rem;
+}
+
+.ahmad_startrating_m h4 {
+    font-weight: bold;
+    font-size: 1.6rem;
+    color: white;
+}
+
+.ahmad_startrating_m h6 {
+    font-weight: normal;
+    color: #e5eee7 !important;
+    opacity: 0.4;
+}
+
+.ahmad_startrating_m p {
+    color: #eac600;
+    word-spacing: 0.4rem;
+}
+
+.ahmad_startrating_m i {
+    letter-spacing: 0.3rem;
+    font-size: 1.2rem;
+}
+
+.userprofile_aditya {
+    opacity: 0.4 !important;
+    margin-left: 0.6rem;
+    font-size: 1.4rem;
+}
+
+.location_aditya {
+    color: #ffffff !important;
+    margin-left: 0.6rem;
+    opacity: 0.8;
+    font-size: 1.4rem;
+}
+
+.rating_txt {
+    color: #ffffff !important;
+    font-size: 2.8rem !important;
+    word-spacing: 0.5rem;
+    float: right;
+    font-weight: 600;
+}
+
+.age_years_user {
+    font-family: Roboto;
+    text-transform: capitalize;
+    line-height: 0rem;
+    padding-top: 1.8rem;
+    justify-content: space-between;
+    margin-left: -1.3rem;
+}
+
+.age_years_user p {
+    color: #ffffff;
+    font-size: 1.8rem;
+    margin-left: 0rem;
+    opacity: 0.4;
+}
+
+.age_years_user {
+    font-family: Roboto;
+    text-transform: capitalize;
+    line-height: 0rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    margin-left: -1.2rem;
+}
+
+.age_years_user h2 {
+    font-size: 2.1rem;
+    font-weight: normal;
+    line-height: 0rem;
+    color: #ffffff;
+}
+
+.age_years_user img {
+    width: 6rem;
+    margin-top: -1rem;
+}
+
+.qadsiya_text {
+    margin-left: 1.5rem;
+}
+
+.defender_text {
+    margin-right: 15rem;
+}
+
+.performance_text {
+    border-bottom: 2px solid #212121 !important;
+    opacity: 0.4;
+}
+
+.performance_text a {
+    color: #212121;
+    font-family: Roboto;
+    text-transform: capitalize;
+    font-size: 1.8rem;
+    font-weight: 600;
+    text-decoration: none;
+    /* border-bottom: 2px solid #006400; */
+}
+
+
+/* .active {
+  border-bottom: 2px solid #006400;
+  padding-bottom: 1.2rem;
+} */
+
+.performance_text p {
+    margin-right: 3rem;
+}
+
+.performance_img img {
+    width: 40rem;
+    padding-top: 5rem;
+}
+
+.performance_span {
+    border-bottom: 0.3rem solid #006400;
+    position: absolute;
+    width: 108%;
+    left: 0%;
+    top: 132%;
+}
+
+
+/* .................User Profile Page CSS End .........................  */
+
+
+/* .................Media Querry Start .........................  */
+
+@media screen and (max-width: 767.8px) {
+    .navbar-nav li {
+        font-size: 1.8rem;
+        color: #212121;
+        margin: 0rem !important;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 991.9px) {
+    .navbar-nav li {
+        font-size: 1.2rem;
+        color: #212121;
+        margin-left: 1rem;
+    }
+    .social-part {
+        margin-right: 2rem;
+        margin-top: 0.8rem;
+    }
+    .age_years_text_one p {
+        margin-left: 2.5rem;
+    }
+    .age_years_textt_one h2 {
+        margin-left: 3rem;
+    }
+    .hour_increment input {
+        width: 100%;
+    }
+    .ahmad_startrating_m {
+        margin-left: 1.6rem;
+    }
+    .age_years_user p {
+        font-size: 1.2rem;
+    }
+    .age_years_user h2 {
+        font-size: 1.2rem;
+    }
+    .defender_text {
+        margin-right: 7rem;
+    }
+    .t28_text {
+        position: absolute;
+        left: 19%;
+    }
+    .t15_text {
+        position: absolute;
+        left: 33.2%;
+    }
+    .t2_text {
+        position: absolute;
+        left: 45%;
+    }
+    .defender_text {
+        position: absolute;
+        left: 55%;
+    }
+}
+
+@media screen and (min-width: 992px) and (max-width: 1199.9px) {
+    .navbar-nav li {
+        font-size: 1.6rem;
+        color: #212121;
+        margin-left: 1rem;
+    }
+    .social-part {
+        margin-right: 0.5rem;
+        margin-top: 0.5rem;
+    }
+    .age_years_text p {
+        font-size: 0.8rem;
+    }
+    .age_years_textt h2 {
+        font-size: 0.65rem;
+    }
+    .age_years_text_one p {
+        margin-left: 1.5rem;
+    }
+    .age_years_textt_one h2 {
+        margin-left: 2rem;
+    }
+    .hour_increment input {
+        width: 100%;
+    }
+    .thamer_startrating_m {
+        margin-left: 0.9rem;
+    }
+    .celender_responsive {
+        height: 14rem;
+    }
+    .t28_text {
+        position: absolute;
+        left: 18.5%;
+    }
+    .t15_text {
+        position: absolute;
+        left: 33.2%;
+    }
+    .t2_text {
+        position: absolute;
+        left: 45%;
+    }
+    .defender_text {
+        position: absolute;
+        left: 55%;
+    }
+}
+
+@media screen and (min-width: 1200px) and (max-width: 1439.9px) {
+    .t28_text {
+        position: absolute;
+        left: 18.5%;
+    }
+    .t15_text {
+        position: absolute;
+        left: 33.2%;
+    }
+    .t2_text {
+        position: absolute;
+        left: 46%;
+    }
+    .defender_text {
+        position: absolute;
+        left: 57%;
+    }
+}
+
+@media screen and (min-width: 1440px) and (max-width: 2020px) {
+    .t28_text {
+        position: absolute;
+        left: 18.5%;
+    }
+    .t15_text {
+        position: absolute;
+        left: 33.2%;
+    }
+    .t2_text {
+        position: absolute;
+        left: 46%;
+    }
+    .defender_text {
+        position: absolute;
+        left: 57%;
+    }
+}
+
+
+/* .................Media Querry End.........................  */
+
+/* img {
+    max-width: 180px;
+}
+
+input[type=file] {
+    padding: 10px;
+    background: #2d2d2d;
+} */
+

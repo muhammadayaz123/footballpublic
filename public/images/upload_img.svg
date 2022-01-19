@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="794" height="132" viewBox="0 0 794 132">
+  <g id="Group_1156" data-name="Group 1156" transform="translate(-7085 -2908)">
+    <g id="Rectangle_711" data-name="Rectangle 711" transform="translate(7085 2908)" fill="none" stroke="#c7c7c7" stroke-width="2" stroke-dasharray="9">
+      <rect width="794" height="132" stroke="none"/>
+      <rect x="1" y="1" width="792" height="130" fill="none"/>
+    </g>
+    <g id="Group_1155" data-name="Group 1155" transform="translate(-1 -21)">
+      <g id="upload" transform="translate(7470 2958.642)">
+        <g id="Group_1152" data-name="Group 1152" transform="translate(0 16.88)">
+          <g id="Group_1151" data-name="Group 1151">
+            <path id="Path_272" data-name="Path 272" d="M23.277,312.642v6.072a.936.936,0,0,1-.986.874H2.959a.936.936,0,0,1-.986-.874v-6.072H0v6.072a2.809,2.809,0,0,0,2.959,2.621H22.291a2.809,2.809,0,0,0,2.959-2.621v-6.072Z" transform="translate(0 -312.642)" fill="#ababab"/>
+          </g>
+        </g>
+        <g id="Group_1154" data-name="Group 1154" transform="translate(7.196 0.358)">
+          <g id="Group_1153" data-name="Group 1153">
+            <path id="Path_273" data-name="Path 273" d="M137.145.358l-5.429,5.429,1.235,1.235,3.32-3.32V17.318h1.747V3.7l3.32,3.32,1.235-1.235Z" transform="translate(-131.716 -0.358)" fill="#ababab"/>
+          </g>
+        </g>
+      </g>
+      <text id="Upload_Photo_Video" data-name="Upload Photo/Video" transform="translate(7420 3006)" fill="#ababab" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Upload Photo/Video</tspan></text>
+      <text id="File_Type_:_JPG_PNG_GIF_MP4" data-name="File Type : JPG PNG GIF\MP4" transform="translate(7405 3028)" fill="#ababab" font-size="12" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">File Type : JPG PNG GIF\MP4</tspan></text>
+    </g>
+  </g>
+</svg>

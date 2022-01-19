@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="115.333" height="115.333" viewBox="0 0 115.333 115.333">
+  <g id="Group_295" data-name="Group 295" transform="translate(-33 -133)">
+    <text id="Amount" transform="translate(91 197)" fill="#212121" font-size="17" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="-30.169" y="0">Amount</tspan></text>
+    <g id="Group_273" data-name="Group 273" transform="translate(-821.204 -2505.48)">
+      <path id="Path_288" data-name="Path 288" d="M1015.813,2688.241l13.735-3.379a57.776,57.776,0,0,0-37.976-41.012l-4.423,13.438A43.6,43.6,0,0,1,1015.813,2688.241Z" transform="translate(-61.671 -2.491)" fill="#f44336"/>
+      <path id="Path_289" data-name="Path 289" d="M1031.048,2734.125a57.812,57.812,0,0,0-1.66-13.776l-13.735,3.379a43.536,43.536,0,0,1-28.85,51.809l4.361,13.456A57.688,57.688,0,0,0,1031.048,2734.125Z" transform="translate(-61.51 -37.977)" fill="#bfddc5"/>
+      <path id="Path_290" data-name="Path 290" d="M868.34,2696.147a43.531,43.531,0,0,1,57.138-41.349l4.423-13.438a57.691,57.691,0,0,0-70.067,79.667l12.748-6.121A43.352,43.352,0,0,1,868.34,2696.147Z" transform="translate(0)" fill="#006400"/>
+      <path id="Path_291" data-name="Path 291" d="M916.743,2819.942a57.606,57.606,0,0,0,17.782-2.8l-4.361-13.456a43.548,43.548,0,0,1-52.711-22.653l-12.748,6.121A57.671,57.671,0,0,0,916.743,2819.942Z" transform="translate(-4.872 -66.129)" fill="#e6e6e6"/>
+    </g>
+  </g>
+</svg>

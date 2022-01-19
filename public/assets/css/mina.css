@@ -1,0 +1,588 @@
+.bg_green-s {
+    background-color: #006400;
+}
+
+.fg_green-s {
+    color: #006400;
+}
+
+.background_img-s {
+    background-image: url(../images/login_white_bg.svg), url(../images/login_bg.png);
+    /* Full height */
+    height: 90vh;
+    /* Center and scale the image nicely */
+    background-position: top left, right;
+    background-size: 30%, 100%;
+    background-repeat: repeat-y, repeat-y;
+}
+
+@media screen and (max-width:1440px) {
+    .background_img-s {
+        background-image: url(../images/login_white_bg.svg), url(../images/login_bg.png);
+        /* Full height */
+        height: 90vh;
+        /* Center and scale the image nicely */
+        background-position: top left, right;
+        background-size: 30%, 100%;
+        background-repeat: repeat-y, repeat-y;
+    }
+}
+
+@media screen and (max-width:1024px) {
+    .background_img-s {
+        background: url(../images/login_white_bg.svg), url(../images/login_bg.png);
+        /* Full height */
+        height: 100vh;
+        /* Center and scale the image nicely */
+        background-position: left top, right;
+        background-size: 39%, 84%;
+        background-repeat: repeat-y, repeat-y;
+    }
+
+    .w_md_100-s{
+        width: 80% !important;
+    }
+}
+
+@media screen and (max-width:768px) {
+    .background_img-s {
+        background: url(../images/login_white_bg.svg), url(../images/login_bg.png);
+        /* Full height */
+        height: 100vh;
+        /* Center and scale the image nicely */
+        background-position: left top, right;
+        background-size: 35%, 90%;
+        background-repeat: repeat-y, repeat-y;
+    }
+    .w_md_100-s{
+        width: 100% !important;
+    }
+}
+/*
+@media screen and (max-width:425px) {
+    .background_img-s {
+        background: url(../images/login_bg.svg);
+        height: 100vh;
+        background-position:  right;
+        background-size:  100%;
+        background-repeat:  repeat;
+    }
+    .text_sm_white-s {
+        color: white !important;
+    }
+    .fs_15px-s {
+        font-size: 15px;
+    }
+    .w_sm_50-s{
+        width: 50% !important;
+    }
+} */
+
+@media screen and (max-width:425px) {
+    .background_img-s {
+        background: url(../images/login_white_bg.svg), url(../images/login_bg.png);
+        /* Full height */
+        height: 100vh;
+        /* Center and scale the image nicely */
+        background-position: left top, right;
+        background-size: 35%, 90%;
+        background-repeat:  repeat-y, repeat-y;
+    }
+    .text_sm_white-s {
+        color: white !important;
+    }
+    .fs_15px-s {
+        font-size: 15px;
+    }
+    .w_sm_50-s{
+        width: 50% !important;
+    }
+}
+
+@media screen and (max-width:320px) {
+    /* .background_img-s {
+        background: url(../images/Login_bg.svg);
+        /* Full height */
+        /* height: 100vh; */
+        /* Center and scale the image nicely */
+        /* background-position:  right;
+        background-size:  100%;
+        background-repeat: repeat; */
+    /* } */
+    .fs_15px-s {
+        font-size: 15px;
+    }
+}
+
+.fs_19px-s {
+    font-size: 19px;
+}
+
+.green_bottom_on_hover-s:hover,
+.green_bottom_on_hover-s.active {
+    border-bottom: 5px solid #348734;
+    width: 60%;
+    border-radius: 4px;
+}
+
+.fg_light_green-s {
+    color: #349434;
+}
+
+.fs_90px-s {
+    font-size: 90px;
+}
+
+.fs_40px-s {
+    font-size: 40px;
+}
+
+.opacity_60-s {
+    opacity: 0.6;
+}
+
+.fg_dark_green-s {
+    color: #358734;
+}
+
+.br_10px-s {
+    border-radius: 10px;
+}
+
+.logo_text-s {
+    top: 31%;
+    left: 42px;
+}
+
+.bg_grey-s {
+    background-color: #E5EEE7;
+}
+
+@media screen and (max-width:768px) {
+    .w_78_for_md-s {
+        width: 78% !important;
+    }
+}
+
+@media screen and (max-width:425px) {
+    .fs_small_for_sm-s {
+        font-size: small;
+    }
+}
+
+/* @media screen and (max-width:1024px) {
+    .navbar_collapse-s {
+        background-color: black !important;
+    }
+} */
+
+.br_up_left_right_10px-s {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.bg_filter_img-s {
+    background-image: url(../images/filter.svg);
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-size: 24%;
+    opacity: .4;
+}
+
+.star_img-s {
+    width: 10px;
+}
+
+.fs_10px-s {
+    font-size: 10px;
+}
+
+.fg_yellow-s {
+    color: #EAC600;
+}
+
+.opacity_4-s {
+    opacity: .4;
+}
+
+.field input {
+    position: absolute;
+}
+
+@media screen and (max-width:425px) {
+    .fs_39px_on_sm-s {
+        font-size: 37px !important;
+    }
+}
+
+@media screen and (max-width:375px) {
+    .fs_39px_on_sm-s {
+        font-size: 32px !important;
+    }
+}
+
+@media screen and (max-width:320px) {
+    .fs_39px_on_sm-s {
+        font-size: 27px !important;
+    }
+}
+
+.b_5px-s {
+    border: 5px solid white;
+}
+
+.fg_light_grey-s {
+    color: #bdc5bf;
+}
+
+.code_border-s {
+    border: 1px solid #E5EEE7;
+    border-radius: 5px;
+    border-bottom: 2px solid #006400;
+    width: 77px;
+    height: 77px;
+    background-color: #E5EEE7;
+}
+
+.fs_30px-s {
+    font-size: 30px;
+}
+
+.placeholder_color-s::-webkit-input-placeholder {
+    opacity: 0.4 !important;
+}
+
+.placeholder_color-s:-moz-placeholder {
+    opacity: 0.4 !important;
+}
+
+.font_family_roboto-s {
+    font-family: roboto;
+}
+
+.open_button-s {
+    position: absolute;
+    top: 59px;
+    right: 28px;
+    background: #fff;
+}
+
+.open_button-s button {
+border: none;
+background: transparent;
+}
+
+.top_37px-s{
+    top: 37px !important; ;
+}
+
+@media screen and  (max-width:1024px) {
+    .calendar_responsive-s{
+        left: -41px !important;
+    }
+}
+
+@media screen and  (max-width:768px) {
+    .calendar_responsive-s{
+        left: -130px !important;
+    }
+}
+
+@media screen and  (max-width:425px) {
+    .calendar_responsive-s{
+        left: -105px !important;
+    }
+}
+
+.b_green_5px-s{
+    border: 5px solid green !important;
+}
+
+.font_family_poppins-s{
+    font-family: poppins;
+}
+
+.h_60px-s{
+    height: 60px;
+}
+
+.bottom_35px-s{
+    bottom: 35px;
+}
+
+.br_13px-s{
+    border-radius: 13px;
+}
+
+.h_58px-s{
+    height: 58px;
+}
+
+.bg_contact_image-s{
+    background-image: url(../images/Contact–2.svg);
+    /* background-color: #7a807a; */
+    /* Full height */
+    height: 90vh;
+    /* Center and scale the image nicely */
+    background-position: top ;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+/* .bg_green_img-s{
+    background-image:  url(../images/green_bg.svg);
+    /* background-color: #006400; */
+    /* Full height */
+    /* height: 90vh; */
+    /* Center and scale the image nicely */
+    /* background-position: bottom ;
+    background-size: 100%;
+    background-repeat: repeat-x; */
+/* } */
+
+.bg_about_image-s{
+    background-image: url(../images/Login_bg.svg);
+    /* background-color: #7a807a; */
+    /* Full height */
+    /* min-height: 100vh; */
+    /* Center and scale the image nicely */
+    background-position: top;
+    background-size: 100%;
+    background-repeat: repeat-y;
+}
+
+.bg_footer_about-s{
+    background-image: url(../images/green_about.svg);
+    /* background-color: #7a807a; */
+    /* Full height */
+    /* min-height: 100%; */
+    /* Center and scale the image nicely */
+    background-position: bottom;
+    background-size: 100%;
+    background-repeat:repeat-y;
+    /* position: fixed;
+    bottom: 0px; */
+    width: 100%;
+}
+@media screen and (max-width:1440px) and (min-width:1024px) {
+
+
+    .bg_contact_image-s{
+        background-image:  url(../images/Contact.svg);
+        background-color: #006400;
+        /* Full height */
+        min-height: 100vh;
+        /* Center and scale the image nicely */
+        background-position:top;
+        background-size: 100%;
+        background-repeat: repeat-x;
+    }
+
+    /* .bg_green_img-s{
+        background-image:  url(../images/green_bg.svg); */
+        /* background-color: #006400; */
+        /* Full height */
+        /* height: 90vh; */
+        /* Center and scale the image nicely */
+        /* background-position: bottom;
+        background-size: 100%;
+        background-repeat: repeat-x;
+    } */
+}
+
+@media screen and (max-width:1024px) {
+    .bg_contact_image-s{
+        background-image: url(../images/Login_bg.svg);
+        background-color: #006400;
+        /* Full height */
+        height: 90vh;
+        /* Center and scale the image nicely */
+        background-position: top;
+        background-size: 100%;
+        background-repeat: no-repeat;
+    }
+    .bg_about_image-s{
+        background-image: url(../images/Login_bg.svg);
+        /* background-color: #006400; */
+        /* Full height */
+        height: 90vh;
+        /* Center and scale the image nicely */
+        background-position: top;
+        background-size: 125%;
+        background-repeat: repeat-y;
+    }
+}
+@media screen and (max-width:768px) {
+    .bg_contact_image-s{
+        background-image: url(../images/Login_bg.svg);
+        background-color: #006400;
+        /* Full height */
+        height: 90vh;
+        /* Center and scale the image nicely */
+        background-position: top;
+        background-size: 100%;
+        background-repeat: no-repeat;
+    }
+    .bg_about_image-s{
+        background-image: url(../images/Login_bg.svg);
+        /* background-color: #006400; */
+        /* Full height */
+        height: 90vh;
+        /* Center and scale the image nicely */
+        background-position: top;
+        background-size: 195%;
+        background-repeat: repeat-y;
+    }
+}
+@media screen and (max-width:425px) {
+    .bg_contact_image-s{
+        background-image: url(../images/Login_bg.svg);
+        /* background-color: #006400; */
+        /* Full height */
+        height: 90vh;
+        /* Center and scale the image nicely */
+        background-position: top;
+        background-size: 200%;
+        background-repeat: no-repeat;
+    }
+    .bg_about_image-s{
+        background-image: url(../images/Login_bg.svg);
+        /* background-color: #006400; */
+        /* Full height */
+        height: 90vh;
+        /* Center and scale the image nicely */
+        background-position: top;
+        background-size: 499%;
+        background-repeat: repeat-y;
+    }
+}
+@media screen and (max-width:375px) {
+    .bg_contact_image-s{
+        background-image: url(../images/Login_bg.svg);
+        background-color: #006400;
+        /* Full height */
+        height: 90vh;
+        /* Center and scale the image nicely */
+        background-position: top;
+        background-size: 250%;
+        background-repeat: no-repeat;
+    }
+    .bg_about_image-s{
+        background-image: url(../images/Login_bg.svg);
+        /* background-color: #006400; */
+        /* Full height */
+        height: 90vh;
+        /* Center and scale the image nicely */
+        background-position: top;
+        background-size: 668%;
+        background-repeat: repeat-y;
+    }
+}
+
+.br_7px-s{
+    border-radius: 7px;
+}
+
+.fs_contact_90px-s{
+    font-size: 90px;
+}
+
+@media screen and (max-width:768px) {
+    .fs_contact_90px-s{
+        font-size: 69px;
+    }
+}
+
+@media screen and (max-width:425px) {
+    .fs_contact_90px-s{
+        font-size: 58px;
+    }
+}
+
+.footer{
+    position: absolute;
+    /* bottom: 0; */
+    width: 98%;
+    height: 60px;
+    line-height: 98px;
+}
+
+.bg_light_green-s{
+    background-color: #cddfcf;
+}
+
+.cursor_pointer-s{
+    cursor: pointer;
+}
+
+input::-ms-clear, input::-ms-reveal {
+    display: none;
+}
+
+
+/* preloader - START */
+
+
+.loader_container-s {
+    top: 0px;
+    position: fixed;
+    z-index: 999999;
+    width: 100%;
+    text-align: center;
+    height: 100vh;
+    /* padding-top: 20%; */
+    vertical-align: middle;
+    background: rgba(0, 0, 0, .3);
+}
+
+
+/* .loader {
+    position: fixed;
+    z-index: 999999;
+    text-align: center;
+    height: 100vh;
+    background: rgba(0, 0, 0, .3);
+    padding-top: 10%;
+    vertical-align: middle;
+    border: 2px solid #f3f3f3;
+    border-radius: 50%;
+    border-top: 16px solid #3498db;
+    width: 165px;
+    height: 165px;
+    -webkit-animation: spin 2s linear infinite;
+    /* Safari */
+    /* animation: spin 2s linear infinite; */
+/* } */
+
+
+/* Safari */
+
+@-webkit-keyframes spin {
+    0% {
+        -webkit-transform: rotate(0deg);
+    }
+    100% {
+        -webkit-transform: rotate(360deg);
+    }
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+
+/* preloader - END */
+
+
+
+.payment_method_box{
+    width: 100%;
+    max-width:400px;
+    margin: 50px auto auto auto;
+    padding:50px 0;
+    border: 1px solid green;
+}

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31.4" height="31.4" viewBox="0 0 31.4 31.4">
+  <g id="logout_1_" data-name="logout (1)" transform="translate(0.2 0.2)">
+    <g id="Group_4" data-name="Group 4" transform="translate(0 0)">
+      <path id="Path_20" data-name="Path 20" d="M17.437,31H3.229A3.234,3.234,0,0,1,0,27.771V3.229A3.234,3.234,0,0,1,3.229,0H17.437a3.234,3.234,0,0,1,3.229,3.229v7.75a.646.646,0,1,1-1.292,0V3.229a1.94,1.94,0,0,0-1.937-1.937H3.229A1.94,1.94,0,0,0,1.292,3.229V27.771a1.94,1.94,0,0,0,1.937,1.937H17.437a1.94,1.94,0,0,0,1.937-1.937v-7.75a.646.646,0,0,1,1.292,0v7.75A3.234,3.234,0,0,1,17.437,31Z" transform="translate(0 0)" fill="#212121" stroke="#fff" stroke-width="0.4"/>
+    </g>
+    <g id="Group_5" data-name="Group 5" transform="translate(10.333 14.854)">
+      <path id="Path_21" data-name="Path 21" d="M28.021,12.792H8.646a.646.646,0,1,1,0-1.292H28.021a.646.646,0,1,1,0,1.292Z" transform="translate(-8 -11.5)" fill="#212121" stroke="#fff" stroke-width="0.4"/>
+    </g>
+    <g id="Group_6" data-name="Group 6" transform="translate(24.541 9.688)">
+      <path id="Path_22" data-name="Path 22" d="M19.646,19.125a.645.645,0,0,1-.457-1.1L23.9,13.312,19.19,8.6A.646.646,0,0,1,20.1,7.69l5.167,5.167a.646.646,0,0,1,0,.913L20.1,18.936A.649.649,0,0,1,19.646,19.125Z" transform="translate(-19 -7.501)" fill="#212121" stroke="#fff" stroke-width="0.4"/>
+    </g>
+  </g>
+</svg>
